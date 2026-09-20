@@ -14,3 +14,7 @@ On the one hand, AI can make each developer more productive. Developers can use 
 On the other hand, the article explains that AI could increase the demand for computer-related jobs because of an increased demand for these AI-based solutions and AI systems.
 
 I found this contrast especially interesting. Although AI may automate some of the work developers currently do, it may also create new responsibilities and opportunities for software engineers.
+
+### Rwan's Comment 
+
+I found the contrast in this article interesting as well because AI can both reduce some repetitive programming work and create new types of work for software engineers. I think this shows that learning how to work with AI tools may become an important skill for developers, rather than AI simply replacing them.
